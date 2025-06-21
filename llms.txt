@@ -1,0 +1,3 @@
+# Access policy for large language model crawlers
+User-agent: *
+Allow: /
